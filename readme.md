@@ -4,8 +4,15 @@
 
 ###Technologies:
 - Java
-- **GAME ENGINE/FRAMEWORK**
-- Android SD
+- [AndEngine](https://github.com/nicolasgramlich/AndEngine)
+- Android SDK 
+
+
+###Learning Objectives:
+- Get better at Java
+- Gain familiarity with Android System
+- Gain experience working under deadlines
+
 
 ###Synopsis:
 	An endless-runner where the player must simultaneously escape his drunken abusive father and also aim to hit his son with bottles.
