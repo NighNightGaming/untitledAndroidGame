@@ -18,15 +18,12 @@
 	Coming soon!
 
 ###Key Mechanics:
-1. The ability to control both agents
-2. Procedurally generated levels
+1. Endless runner
+2. The ability to control both agents
+3. Procedurally generated levels
 	
 ###Controls:
-- Tap to jump
-- Slide finger vertically to control angle of throw
-#####OR
-- Double tap to jump
-- Single tap to indicate apex of throw curve
+ Coming soon
 
 ###Objectives:
 ####Agent 1:
