@@ -1,5 +1,5 @@
 #CISC 3120 - Honors Project
-##Title: Pappy isn't Happy
+##Title: Project Untitled
 
 
 ###Technologies:
@@ -15,7 +15,7 @@
 
 
 ###Synopsis:
-	An endless-runner where the player must simultaneously escape his drunken abusive father and also aim to hit his son with bottles.
+	Coming soon!
 
 ###Key Mechanics:
 1. The ability to control both agents
@@ -29,14 +29,9 @@
 - Single tap to indicate apex of throw curve
 
 ###Objectives:
-####Son:
-- Avoid falling into traps
-- Collect bottles
-- Avoid cop
+####Agent 1:
+	Coming soon
 
-####Father:
-- Maintain inebriation without passing out
-- Hit son
-- Break barriers so son can pass
-
+####Adgent 2:
+	Coming soon
 
